@@ -5,7 +5,7 @@
   <tr>
     <td><a href="mailto:jangareum03@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" /></a></td>
     <td><a href="https://areum.tistory.com/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white" /></a></td>
-    <td><a href="https://areum.tistory.com/"><img src="https://img.shields.io/badge/Github-181B18?style=flat-square&logo=GitHub&logoColor=white" /></a></td>
+    <td><a href="https://github.com/jangareum03/"><img src="https://img.shields.io/badge/Github-181B18?style=flat-square&logo=GitHub&logoColor=white" /></a></td>
   </tr>
 </table>
   
